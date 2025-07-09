@@ -4,3 +4,4 @@ version = "0.1.0"
 description = "A universal, industry-neutral taxonomy of cognitive core skills (perception, memory, reasoning, planning, action, verification, learning, governance) for LLMs, SLMs, AI agents, and world models — with schemas, 159 skill cards, benchmarks, and CI."
 requires-python = ">=3.10"
 # keep defaults in sync with the manifest
+# keep defaults in sync with the manifest

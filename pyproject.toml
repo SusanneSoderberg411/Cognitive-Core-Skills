@@ -5,3 +5,4 @@ description = "A universal, industry-neutral taxonomy of cognitive core skills (
 requires-python = ">=3.10"
 # keep defaults in sync with the manifest
 # keep defaults in sync with the manifest
+# guard against empty input
